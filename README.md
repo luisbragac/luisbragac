@@ -11,7 +11,7 @@
 
 
         
-Me chamo Luis Eduardo Braga, tenho 18 anos e sou natural do Ceará. Em agosto de 2025, iniciarei a graduação em **Engenharia da Computação** na Unifor,enquanto também me especializo com o curso técnico de **Programador de Sistemas** pelo Senac-CE. Tenho foco em **backend**, mas estou sempre explorando novas tecnologias e buscando resolver problemas do mundo real com código limpo e bem estruturado. Além disso, conclui [cursos e formações](https://cursos.alura.com.br/user/lcanafistula-br/fullCertificate/cf7044dea3b014d1f974f91fb0355e15) na escola de programação Alura. 
+Me chamo Luis Eduardo Braga, tenho 18 anos e sou natural do Ceará. Em agosto de 2025, iniciei a graduação em **Engenharia da Computação** na Unifor, enquanto também me especializei com o curso técnico de **Programador de Sistemas** pelo Senac-CE. Tenho foco em **backend**, mas estou sempre explorando novas tecnologias e buscando resolver problemas do mundo real com código limpo e bem estruturado. Além disso, conclui [cursos e formações](https://cursos.alura.com.br/user/lcanafistula-br/fullCertificate/cf7044dea3b014d1f974f91fb0355e15) na escola de programação Alura. 
 
 <p align="left">
       <a href="https://github.com/luisbragac?tab=followers">
