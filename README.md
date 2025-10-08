@@ -4,14 +4,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Olá!+👋;+Sou+Luis+Eduardo+Braga+Canafistula!;" />
 </h1>
-<h3>Desenvolvedor Java-End </h3>
+<h3>Desenvolvedor Back-End </h3>
 
 ##
 
 
 
         
-Me chamo Luis Eduardo Braga, tenho 17 anos e sou natural do Ceará. Em agosto de 2025, iniciarei a graduação em **Engenharia da Computação** na Unifor,enquanto também me especializo com o curso técnico de **Programador de Sistemas** pelo Senac-CE. Tenho foco em **backend**, mas estou sempre explorando novas tecnologias e buscando resolver problemas do mundo real com código limpo e bem estruturado. Além disso, conclui [cursos e formações](https://cursos.alura.com.br/user/lcanafistula-br/fullCertificate/cf7044dea3b014d1f974f91fb0355e15) na escola de programação Alura. 
+Me chamo Luis Eduardo Braga, tenho 18 anos e sou natural do Ceará. Em agosto de 2025, iniciarei a graduação em **Engenharia da Computação** na Unifor,enquanto também me especializo com o curso técnico de **Programador de Sistemas** pelo Senac-CE. Tenho foco em **backend**, mas estou sempre explorando novas tecnologias e buscando resolver problemas do mundo real com código limpo e bem estruturado. Além disso, conclui [cursos e formações](https://cursos.alura.com.br/user/lcanafistula-br/fullCertificate/cf7044dea3b014d1f974f91fb0355e15) na escola de programação Alura. 
 
 <p align="left">
       <a href="https://github.com/luisbragac?tab=followers">
